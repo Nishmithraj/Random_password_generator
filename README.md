@@ -1,2 +1,2 @@
 # Random_password_generator
-Creates a random password using numbers, special characters, alphabets- Caps amd smallCaps.
+Console App: Creates a random password using numbers, special characters, alphabets- Caps amd smallCaps.
